@@ -1,0 +1,166 @@
+C:\Users\student.COMPLAB6NODE20\Documents\17CE18\student_result_manmagement_\student_result_manmagement_\bin\Debug\student_result_manmagement_.exe
+C:\Users\student.COMPLAB6NODE20\Documents\17CE18\student_result_manmagement_\student_result_manmagement_\bin\Debug\Database1.mdf
+C:\Users\student.COMPLAB6NODE20\Documents\17CE18\student_result_manmagement_\student_result_manmagement_\bin\Debug\Database1_log.ldf
+C:\Users\student.COMPLAB6NODE20\Documents\17CE18\student_result_manmagement_\student_result_manmagement_\bin\Debug\student_result_manmagement_.exe.config
+C:\Users\student.COMPLAB6NODE20\Documents\17CE18\student_result_manmagement_\student_result_manmagement_\bin\Debug\EntityFramework.dll
+C:\Users\student.COMPLAB6NODE20\Documents\17CE18\student_result_manmagement_\student_result_manmagement_\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student.COMPLAB6NODE20\Documents\17CE18\student_result_manmagement_\student_result_manmagement_\bin\Debug\EntityFramework.xml
+C:\Users\student.COMPLAB6NODE20\Documents\17CE18\student_result_manmagement_\student_result_manmagement_\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student.COMPLAB6NODE20\Documents\17CE18\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form1.resources
+C:\Users\student.COMPLAB6NODE20\Documents\17CE18\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form2.resources
+C:\Users\student.COMPLAB6NODE20\Documents\17CE18\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form3.resources
+C:\Users\student.COMPLAB6NODE20\Documents\17CE18\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form4.resources
+C:\Users\student.COMPLAB6NODE20\Documents\17CE18\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form5.resources
+C:\Users\student.COMPLAB6NODE20\Documents\17CE18\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form8.resources
+C:\Users\student.COMPLAB6NODE20\Documents\17CE18\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Properties.Resources.resources
+C:\Users\student.COMPLAB6NODE20\Documents\17CE18\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.csproj.GenerateResource.Cache
+C:\Users\student.COMPLAB6NODE20\Documents\17CE18\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.exe
+C:\Users\student.COMPLAB6NODE20\Documents\17CE18\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.pdb
+C:\Users\student.COMPLAB6NODE20\Documents\17CE18\student_result_manmagement_\student_result_manmagement_\bin\Debug\student_result_manmagement_.pdb
+C:\Users\Prajwal Fernandes\Documents\17CE18\student_result_manmagement_\student_result_manmagement_\bin\Debug\Database1.mdf
+C:\Users\Prajwal Fernandes\Documents\17CE18\student_result_manmagement_\student_result_manmagement_\bin\Debug\Database1_log.ldf
+C:\Users\Prajwal Fernandes\Documents\17CE18\student_result_manmagement_\student_result_manmagement_\bin\Debug\student_result_manmagement_.exe.config
+C:\Users\Prajwal Fernandes\Documents\17CE18\student_result_manmagement_\student_result_manmagement_\bin\Debug\student_result_manmagement_.exe
+C:\Users\Prajwal Fernandes\Documents\17CE18\student_result_manmagement_\student_result_manmagement_\bin\Debug\student_result_manmagement_.pdb
+C:\Users\Prajwal Fernandes\Documents\17CE18\student_result_manmagement_\student_result_manmagement_\bin\Debug\EntityFramework.dll
+C:\Users\Prajwal Fernandes\Documents\17CE18\student_result_manmagement_\student_result_manmagement_\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Prajwal Fernandes\Documents\17CE18\student_result_manmagement_\student_result_manmagement_\bin\Debug\EntityFramework.xml
+C:\Users\Prajwal Fernandes\Documents\17CE18\student_result_manmagement_\student_result_manmagement_\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Prajwal Fernandes\Documents\17CE18\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.csprojResolveAssemblyReference.cache
+C:\Users\Prajwal Fernandes\Documents\17CE18\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form1.resources
+C:\Users\Prajwal Fernandes\Documents\17CE18\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form2.resources
+C:\Users\Prajwal Fernandes\Documents\17CE18\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form3.resources
+C:\Users\Prajwal Fernandes\Documents\17CE18\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form4.resources
+C:\Users\Prajwal Fernandes\Documents\17CE18\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form5.resources
+C:\Users\Prajwal Fernandes\Documents\17CE18\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form8.resources
+C:\Users\Prajwal Fernandes\Documents\17CE18\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Properties.Resources.resources
+C:\Users\Prajwal Fernandes\Documents\17CE18\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.csproj.GenerateResource.Cache
+C:\Users\Prajwal Fernandes\Documents\17CE18\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.exe
+C:\Users\Prajwal Fernandes\Documents\17CE18\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.pdb
+C:\Users\Prajwal Fernandes\Documents\17CE18\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form6.resources
+C:\Users\Prajwal Fernandes\Documents\17CE18\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form7.resources
+H:\sem3\SE\images for project\student_result_manmagement_\student_result_manmagement_\bin\Debug\student_result_manmagement_.exe.config
+H:\sem3\SE\images for project\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.exe
+H:\sem3\SE\images for project\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.pdb
+C:\Users\student.COMPLAB6NODE20\Documents\17CE18\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form7.resources
+C:\Users\student.COMPLAB6NODE20\Documents\17CE18\student_result_manmagement_\student_result_manmagement_\bin\Debug\allresult.mdf
+C:\Users\student.COMPLAB6NODE20\Documents\17CE18\student_result_manmagement_\student_result_manmagement_\bin\Debug\allresult_log.ldf
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\student_result_manmagement_\student_result_manmagement_\bin\Debug\allresult.mdf
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\student_result_manmagement_\student_result_manmagement_\bin\Debug\allresult_log.ldf
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\student_result_manmagement_\student_result_manmagement_\bin\Debug\Database1.mdf
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\student_result_manmagement_\student_result_manmagement_\bin\Debug\Database1_log.ldf
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\student_result_manmagement_\student_result_manmagement_\bin\Debug\student_result_manmagement_.exe.config
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\student_result_manmagement_\student_result_manmagement_\bin\Debug\student_result_manmagement_.exe
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\student_result_manmagement_\student_result_manmagement_\bin\Debug\student_result_manmagement_.pdb
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\student_result_manmagement_\student_result_manmagement_\bin\Debug\EntityFramework.dll
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\student_result_manmagement_\student_result_manmagement_\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\student_result_manmagement_\student_result_manmagement_\bin\Debug\EntityFramework.xml
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\student_result_manmagement_\student_result_manmagement_\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.csprojResolveAssemblyReference.cache
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form1.resources
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form2.resources
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form3.resources
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form4.resources
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form5.resources
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form7.resources
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form8.resources
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Properties.Resources.resources
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.csproj.GenerateResource.Cache
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.exe
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.pdb
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\student_result_manmagement_\student_result_manmagement_\bin\Debug\Database2.mdf
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\student_result_manmagement_\student_result_manmagement_\bin\Debug\Database2_log.ldf
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form9.resources
+C:\Users\student.COMPLAB6NODE20\Desktop\student_result_manmagement_\student_result_manmagement_\bin\Debug\student_result_manmagement_.exe.config
+C:\Users\student.COMPLAB6NODE20\Desktop\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.exe
+C:\Users\student.COMPLAB6NODE20\Desktop\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.pdb
+C:\Users\student.COMPLAB6NODE20\Desktop\student_result_manmagement_\student_result_manmagement_\bin\Debug\allresult.mdf
+C:\Users\student.COMPLAB6NODE20\Desktop\student_result_manmagement_\student_result_manmagement_\bin\Debug\allresult_log.ldf
+C:\Users\student.COMPLAB6NODE20\Desktop\student_result_manmagement_\student_result_manmagement_\bin\Debug\Database1.mdf
+C:\Users\student.COMPLAB6NODE20\Desktop\student_result_manmagement_\student_result_manmagement_\bin\Debug\Database1_log.ldf
+C:\Users\student.COMPLAB6NODE20\Desktop\student_result_manmagement_\student_result_manmagement_\bin\Debug\Database2.mdf
+C:\Users\student.COMPLAB6NODE20\Desktop\student_result_manmagement_\student_result_manmagement_\bin\Debug\Database2_log.ldf
+C:\Users\student.COMPLAB6NODE20\Desktop\student_result_manmagement_\student_result_manmagement_\bin\Debug\student_result_manmagement_.exe
+C:\Users\student.COMPLAB6NODE20\Desktop\student_result_manmagement_\student_result_manmagement_\bin\Debug\student_result_manmagement_.pdb
+C:\Users\student.COMPLAB6NODE20\Desktop\student_result_manmagement_\student_result_manmagement_\bin\Debug\EntityFramework.dll
+C:\Users\student.COMPLAB6NODE20\Desktop\student_result_manmagement_\student_result_manmagement_\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student.COMPLAB6NODE20\Desktop\student_result_manmagement_\student_result_manmagement_\bin\Debug\EntityFramework.xml
+C:\Users\student.COMPLAB6NODE20\Desktop\student_result_manmagement_\student_result_manmagement_\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student.COMPLAB6NODE20\Desktop\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form1.resources
+C:\Users\student.COMPLAB6NODE20\Desktop\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form2.resources
+C:\Users\student.COMPLAB6NODE20\Desktop\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form3.resources
+C:\Users\student.COMPLAB6NODE20\Desktop\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form4.resources
+C:\Users\student.COMPLAB6NODE20\Desktop\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form5.resources
+C:\Users\student.COMPLAB6NODE20\Desktop\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form7.resources
+C:\Users\student.COMPLAB6NODE20\Desktop\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form8.resources
+C:\Users\student.COMPLAB6NODE20\Desktop\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form9.resources
+C:\Users\student.COMPLAB6NODE20\Desktop\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Properties.Resources.resources
+C:\Users\student.COMPLAB6NODE20\Desktop\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.csproj.GenerateResource.Cache
+C:\Users\student.COMPLAB6NODE20\Documents\17CE18\student_result_manmagement_\student_result_manmagement_\bin\Debug\Database2.mdf
+C:\Users\student.COMPLAB6NODE20\Documents\17CE18\student_result_manmagement_\student_result_manmagement_\bin\Debug\Database2_log.ldf
+C:\Users\student.COMPLAB6NODE20\Documents\17CE18\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.csprojResolveAssemblyReference.cache
+C:\Users\student.COMPLAB6NODE20\Documents\17CE18\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form9.resources
+C:\Users\student.COMPLAB6NODE20\Desktop\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.csprojResolveAssemblyReference.cache
+G:\software enginerring\the ultimate\student_result_manmagement_\student_result_manmagement_\bin\Debug\student_result_manmagement_.exe.config
+G:\software enginerring\the ultimate\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.exe
+G:\software enginerring\the ultimate\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.pdb
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\bin\Debug\allresult.mdf
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\bin\Debug\allresult_log.ldf
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\bin\Debug\Database1.mdf
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\bin\Debug\Database1_log.ldf
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\bin\Debug\Database2.mdf
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\bin\Debug\Database2_log.ldf
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\bin\Debug\student_result_manmagement_.exe.config
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\bin\Debug\student_result_manmagement_.exe
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\bin\Debug\student_result_manmagement_.pdb
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\bin\Debug\EntityFramework.dll
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\bin\Debug\EntityFramework.xml
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form1.resources
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form2.resources
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form3.resources
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form4.resources
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form5.resources
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form7.resources
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form8.resources
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form9.resources
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Properties.Resources.resources
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.csproj.GenerateResource.Cache
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.exe
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.pdb
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form10.resources
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form11.resources
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form12.resources
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.csprojAssemblyReference.cache
+C:\Users\ERROL COSTABIR\Documents\softwrae engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.csproj.CopyComplete
+C:\Users\ERROL COSTABIR\Documents\software engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\bin\Debug\allresult.mdf
+C:\Users\ERROL COSTABIR\Documents\software engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\bin\Debug\allresult_log.ldf
+C:\Users\ERROL COSTABIR\Documents\software engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\bin\Debug\Database1.mdf
+C:\Users\ERROL COSTABIR\Documents\software engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\bin\Debug\Database1_log.ldf
+C:\Users\ERROL COSTABIR\Documents\software engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\bin\Debug\Database2.mdf
+C:\Users\ERROL COSTABIR\Documents\software engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\bin\Debug\Database2_log.ldf
+C:\Users\ERROL COSTABIR\Documents\software engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\bin\Debug\student_result_manmagement_.exe.config
+C:\Users\ERROL COSTABIR\Documents\software engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\bin\Debug\student_result_manmagement_.exe
+C:\Users\ERROL COSTABIR\Documents\software engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\bin\Debug\student_result_manmagement_.pdb
+C:\Users\ERROL COSTABIR\Documents\software engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\bin\Debug\EntityFramework.dll
+C:\Users\ERROL COSTABIR\Documents\software engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ERROL COSTABIR\Documents\software engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\bin\Debug\EntityFramework.xml
+C:\Users\ERROL COSTABIR\Documents\software engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ERROL COSTABIR\Documents\software engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.csprojAssemblyReference.cache
+C:\Users\ERROL COSTABIR\Documents\software engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form1.resources
+C:\Users\ERROL COSTABIR\Documents\software engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form10.resources
+C:\Users\ERROL COSTABIR\Documents\software engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form11.resources
+C:\Users\ERROL COSTABIR\Documents\software engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form12.resources
+C:\Users\ERROL COSTABIR\Documents\software engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form2.resources
+C:\Users\ERROL COSTABIR\Documents\software engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form3.resources
+C:\Users\ERROL COSTABIR\Documents\software engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form4.resources
+C:\Users\ERROL COSTABIR\Documents\software engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form5.resources
+C:\Users\ERROL COSTABIR\Documents\software engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form7.resources
+C:\Users\ERROL COSTABIR\Documents\software engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form8.resources
+C:\Users\ERROL COSTABIR\Documents\software engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Form9.resources
+C:\Users\ERROL COSTABIR\Documents\software engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.Properties.Resources.resources
+C:\Users\ERROL COSTABIR\Documents\software engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.csproj.GenerateResource.cache
+C:\Users\ERROL COSTABIR\Documents\software engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.csproj.CopyComplete
+C:\Users\ERROL COSTABIR\Documents\software engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.exe
+C:\Users\ERROL COSTABIR\Documents\software engineering\the ultimate\student_result_manmagement_\student_result_manmagement_\obj\Debug\student_result_manmagement_.pdb
